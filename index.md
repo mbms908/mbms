@@ -1,7 +1,9 @@
-## Welcome to my resume
+## Welcome to My Resume
 ### Education
 ### Work Experience
 ### Contact Information
+Phone:
+E-mail:
 
 You can use the [editor on GitHub](https://github.com/mbms908/mbms/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
